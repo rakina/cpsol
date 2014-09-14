@@ -1,3 +1,8 @@
+/*
+	ICPC Jakarta 2013 Problem B - Network Packet Ordering
+	Basically dynamic programming, but with a cool trick to save space and time.
+*/
+
 #include <cstdio>
 #include <iostream>
 #include <cstdlib>
